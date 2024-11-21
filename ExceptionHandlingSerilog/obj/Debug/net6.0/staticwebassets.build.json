@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s/FZXc254mMJEbzOEXK8ZaeoO87y/fZHgXbiUKQDN6I=",
+  "Source": "ExceptionHandlingSerilog",
+  "BasePath": "_content/ExceptionHandlingSerilog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

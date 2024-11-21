@@ -1,0 +1,14 @@
+2024-11-20 14:58:58.620 -05:00 [INF] Starting application
+2024-11-20 15:00:05.599 -05:00 [INF] Now listening on: https://localhost:7128
+2024-11-20 15:00:05.608 -05:00 [INF] Now listening on: http://localhost:5124
+2024-11-20 15:00:05.622 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-20 15:00:05.624 -05:00 [INF] Hosting environment: Development
+2024-11-20 15:00:05.626 -05:00 [INF] Content root path: D:\.Net\ExceptionHandlingSerilog\
+2024-11-20 15:00:05.902 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7128/swagger/index.html - -
+2024-11-20 15:00:06.213 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7128/swagger/index.html - - - 200 - text/html;charset=utf-8 319.0244ms
+2024-11-20 15:00:06.224 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7128/_framework/aspnetcore-browser-refresh.js - -
+2024-11-20 15:00:06.230 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7128/_framework/aspnetcore-browser-refresh.js - - - 200 12380 application/javascript;+charset=utf-8 5.7876ms
+2024-11-20 15:00:11.734 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7128/_vs/browserLink - -
+2024-11-20 15:00:11.802 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7128/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 67.4076ms
+2024-11-20 15:00:12.005 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7128/swagger/v1/swagger.json - -
+2024-11-20 15:00:12.124 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7128/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 119.0363ms
