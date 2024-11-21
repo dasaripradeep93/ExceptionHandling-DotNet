@@ -9,7 +9,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-string teamsWebhookUrl = "https://algomabrampton.webhook.office.com/webhookb2/deeb000e-0923-4759-9fe0-cdaf8bf0c0c8@0120dad2-7095-421b-9677-8b7ee0c9124e/IncomingWebhook/256f95b32f8e47b5bd38407bacd6a85b/071ed9f8-23a3-4268-919b-804b7fcdd513/V2ucfS6NSc5UfVd6w-QCRpEPuFxWK7HmCBMODg6t8lcpc1";
+string teamsWebhookUrl = "";
 
 Log.Logger = new LoggerConfiguration()
     .WriteTo.Console()
